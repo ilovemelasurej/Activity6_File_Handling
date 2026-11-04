@@ -1,0 +1,5 @@
+Student: Jerusalem
+Student ID: TUPM-26-1131
+Seed digit: 1
+ID sum: 14
+Verification value: 127
