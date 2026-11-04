@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+-------------------------------------
+Last Name: Jerusalem
+Student ID: TUPM-26-1131
+Seed Digit: 1
+ID Sum: 14
+Verification Value: 127
+Dataset Sample Size: 64
+Valid Records: 64
+Average Global Active Power: 4.129
+JSON File: Jerusalem_TUPM-26-1131_record.json
+Backup File: Jerusalem_TUPM-26-1131_record.csv
