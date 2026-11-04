@@ -1,0 +1,286 @@
+Incident ID,Date,Attack Type,Financial Loss (in Million $)
+7,2016,DDoS,33.26
+9,2016,Man-in-the-Middle,16.88
+12,2016,SQL Injection,38.81
+20,2016,DDoS,36.45
+40,2016,DDoS,96.98
+47,2016,SQL Injection,27.33
+48,2016,DDoS,21.01
+66,2016,DDoS,87.68
+69,2016,DDoS,28.66
+84,2016,Man-in-the-Middle,90.2
+114,2016,Phishing,92.79
+122,2016,Malware,61.39
+131,2016,Phishing,27.2
+138,2016,Man-in-the-Middle,18.96
+151,2016,Phishing,75.94
+158,2016,Malware,32.89
+162,2016,Man-in-the-Middle,31.92
+167,2016,Ransomware,29.89
+169,2016,SQL Injection,95.93
+182,2016,Man-in-the-Middle,90.85
+195,2016,Malware,83.88
+199,2016,SQL Injection,46.95
+208,2016,Phishing,71.19
+209,2016,Malware,99.29
+217,2016,Ransomware,29.48
+237,2016,SQL Injection,55.83
+238,2016,DDoS,17.12
+254,2016,SQL Injection,6.59
+261,2016,Phishing,59.36
+264,2016,Malware,96.63
+282,2016,Man-in-the-Middle,72.78
+292,2016,Phishing,7.73
+296,2016,Ransomware,15.09
+308,2016,Man-in-the-Middle,75.51
+323,2016,SQL Injection,73.76
+326,2016,Ransomware,55.99
+333,2016,SQL Injection,63.77
+341,2016,Man-in-the-Middle,97.28
+350,2016,Ransomware,59.66
+352,2016,SQL Injection,2.24
+377,2016,Phishing,8.42
+399,2016,DDoS,8.01
+400,2016,Malware,39.86
+407,2016,SQL Injection,1.73
+422,2016,SQL Injection,42.98
+423,2016,Malware,68.42
+429,2016,Phishing,27.46
+435,2016,SQL Injection,43.76
+451,2016,DDoS,82.49
+453,2016,SQL Injection,77.45
+462,2016,Phishing,48.57
+480,2016,DDoS,22.48
+483,2016,DDoS,63.11
+508,2016,Phishing,92.53
+521,2016,Ransomware,57.17
+526,2016,SQL Injection,48.77
+538,2016,Ransomware,37.12
+543,2016,SQL Injection,14.17
+555,2016,Phishing,27.99
+573,2016,Ransomware,11.58
+583,2016,Malware,85.15
+597,2016,SQL Injection,25.85
+601,2016,DDoS,80.09
+602,2016,SQL Injection,24.51
+628,2016,DDoS,66.73
+635,2016,Malware,3.76
+638,2016,Man-in-the-Middle,41.34
+655,2016,Man-in-the-Middle,14.86
+658,2016,Ransomware,9.53
+663,2016,SQL Injection,29.33
+687,2016,Phishing,2.84
+696,2016,Man-in-the-Middle,23.35
+709,2016,Malware,72.73
+724,2016,Man-in-the-Middle,76.06
+727,2016,Malware,11.81
+747,2016,SQL Injection,40.29
+752,2016,Malware,80.22
+763,2016,Phishing,54.5
+765,2016,Man-in-the-Middle,73.63
+780,2016,SQL Injection,10.82
+783,2016,Malware,15.92
+786,2016,SQL Injection,34.35
+798,2016,DDoS,71.75
+800,2016,DDoS,48.47
+814,2016,Malware,88.87
+816,2016,SQL Injection,56.57
+822,2016,Phishing,35.94
+831,2016,Ransomware,8.21
+848,2016,Phishing,53.81
+858,2016,Malware,91.69
+874,2016,Ransomware,9.82
+875,2016,DDoS,67.28
+877,2016,Man-in-the-Middle,84.46
+896,2016,Phishing,2.1
+900,2016,Ransomware,66.19
+905,2016,DDoS,10.45
+926,2016,DDoS,93.14
+937,2016,Ransomware,8.55
+938,2016,Phishing,30.57
+975,2016,Malware,29.05
+977,2016,DDoS,39.26
+1000,2016,SQL Injection,47.19
+1001,2016,Ransomware,99.19
+1003,2016,Man-in-the-Middle,48.86
+1004,2016,DDoS,80.48
+1006,2016,DDoS,18.96
+1020,2016,DDoS,18.48
+1024,2016,Phishing,13.68
+1076,2016,DDoS,20.09
+1077,2016,SQL Injection,16.24
+1117,2016,SQL Injection,10.4
+1131,2016,Man-in-the-Middle,41.79
+1150,2016,Phishing,43.81
+1154,2016,Malware,8.08
+1159,2016,Phishing,82.93
+1161,2016,Malware,66.19
+1174,2016,Man-in-the-Middle,11.91
+1182,2016,Man-in-the-Middle,53.57
+1199,2016,Malware,44.93
+1209,2016,Phishing,17.06
+1221,2016,Man-in-the-Middle,10.2
+1224,2016,DDoS,61.15
+1238,2016,Man-in-the-Middle,97.79
+1242,2016,SQL Injection,63.89
+1246,2016,Phishing,9.84
+1256,2016,Phishing,86.3
+1260,2016,Man-in-the-Middle,35.59
+1268,2016,DDoS,25.81
+1305,2016,Ransomware,37.22
+1313,2016,Phishing,46.28
+1314,2016,Ransomware,25.55
+1337,2016,Phishing,1.28
+1342,2016,Malware,87.52
+1377,2016,Phishing,38.58
+1385,2016,Phishing,68.23
+1392,2016,SQL Injection,43.55
+1393,2016,Ransomware,11.83
+1420,2016,Ransomware,92.39
+1441,2016,SQL Injection,29.24
+1448,2016,Phishing,27.85
+1450,2016,DDoS,81.31
+1467,2016,Malware,77.7
+1468,2016,Phishing,14.65
+1479,2016,Ransomware,5.18
+1481,2016,Phishing,70.4
+1483,2016,Ransomware,29.35
+1493,2016,DDoS,97.83
+1501,2016,DDoS,98.25
+1557,2016,Malware,45.71
+1562,2016,Phishing,89.85
+1566,2016,Man-in-the-Middle,62.9
+1568,2016,Malware,41.11
+1577,2016,DDoS,71.12
+1582,2016,DDoS,83.02
+1595,2016,Malware,22.48
+1609,2016,DDoS,94.1
+1625,2016,Phishing,72.34
+1626,2016,Man-in-the-Middle,37.48
+1635,2016,Ransomware,82.99
+1638,2016,DDoS,74.5
+1641,2016,Man-in-the-Middle,23.99
+1656,2016,SQL Injection,96.28
+1657,2016,Ransomware,94.63
+1660,2016,Malware,81.81
+1693,2016,Ransomware,61.66
+1700,2016,DDoS,76.9
+1702,2016,Ransomware,34.29
+1704,2016,SQL Injection,63.67
+1733,2016,Phishing,55.18
+1746,2016,Man-in-the-Middle,57.14
+1754,2016,DDoS,13.83
+1769,2016,SQL Injection,77.94
+1784,2016,SQL Injection,98.39
+1789,2016,Malware,76.81
+1790,2016,Malware,36.2
+1794,2016,Ransomware,83.67
+1801,2016,Man-in-the-Middle,23.38
+1834,2016,SQL Injection,17.05
+1841,2016,Phishing,37.62
+1845,2016,Man-in-the-Middle,43.45
+1857,2016,Ransomware,32.16
+1861,2016,DDoS,10.62
+1881,2016,DDoS,2.96
+1884,2016,Malware,65.14
+1888,2016,DDoS,27.08
+1896,2016,Phishing,78.12
+1919,2016,SQL Injection,13.94
+1923,2016,Phishing,9.23
+1925,2016,Malware,94.12
+1977,2016,SQL Injection,76.36
+2003,2016,Man-in-the-Middle,2.17
+2005,2016,Ransomware,99.88
+2010,2016,DDoS,61.23
+2058,2016,Phishing,97.98
+2059,2016,SQL Injection,16.5
+2076,2016,Man-in-the-Middle,14.04
+2083,2016,Ransomware,80.77
+2086,2016,Man-in-the-Middle,70.89
+2122,2016,Man-in-the-Middle,20.44
+2134,2016,Phishing,99.98
+2143,2016,Man-in-the-Middle,3.57
+2147,2016,Phishing,30.42
+2148,2016,Ransomware,59.44
+2170,2016,DDoS,90.94
+2185,2016,Malware,67.85
+2187,2016,Man-in-the-Middle,42.88
+2239,2016,Ransomware,93.93
+2246,2016,SQL Injection,37.17
+2256,2016,Man-in-the-Middle,2.59
+2280,2016,SQL Injection,69.55
+2291,2016,Phishing,97.45
+2297,2016,DDoS,44.17
+2312,2016,SQL Injection,4.31
+2318,2016,Malware,30.72
+2325,2016,Ransomware,72.25
+2336,2016,Ransomware,62.73
+2368,2016,Ransomware,93.74
+2389,2016,Man-in-the-Middle,80.27
+2394,2016,Phishing,33.33
+2396,2016,Man-in-the-Middle,15.28
+2399,2016,Ransomware,37.23
+2421,2016,SQL Injection,52.68
+2425,2016,Phishing,2.74
+2444,2016,Phishing,29.49
+2453,2016,DDoS,46.58
+2458,2016,Phishing,63.81
+2488,2016,Phishing,37.57
+2498,2016,Malware,84.54
+2505,2016,Phishing,93.61
+2513,2016,Malware,83.93
+2518,2016,Ransomware,47.18
+2519,2016,Ransomware,58.99
+2524,2016,Man-in-the-Middle,58.77
+2532,2016,DDoS,13.52
+2543,2016,Phishing,85.89
+2546,2016,Man-in-the-Middle,82.52
+2553,2016,Malware,85.8
+2556,2016,Malware,3.6
+2561,2016,SQL Injection,43.75
+2575,2016,Ransomware,24.4
+2593,2016,Phishing,71.14
+2595,2016,Malware,91.24
+2600,2016,Malware,52.2
+2602,2016,SQL Injection,61.78
+2610,2016,DDoS,89.08
+2625,2016,DDoS,63.15
+2632,2016,SQL Injection,33.11
+2652,2016,Man-in-the-Middle,8.25
+2655,2016,Phishing,37.29
+2665,2016,DDoS,14.28
+2670,2016,Phishing,11.29
+2683,2016,DDoS,30.49
+2686,2016,Malware,4.84
+2708,2016,Malware,49.92
+2709,2016,Man-in-the-Middle,70.24
+2712,2016,Man-in-the-Middle,58.93
+2718,2016,SQL Injection,17.98
+2724,2016,Phishing,98.72
+2725,2016,Man-in-the-Middle,62.08
+2726,2016,Ransomware,28.79
+2730,2016,DDoS,43.19
+2732,2016,Phishing,40.18
+2753,2016,DDoS,87.62
+2757,2016,Malware,34.78
+2769,2016,Man-in-the-Middle,13.21
+2798,2016,DDoS,48.83
+2803,2016,Phishing,59.95
+2805,2016,Man-in-the-Middle,44.69
+2808,2016,Ransomware,43.88
+2814,2016,Ransomware,27.17
+2825,2016,Phishing,63.35
+2826,2016,DDoS,47.01
+2839,2016,DDoS,77.29
+2844,2016,Man-in-the-Middle,33.45
+2884,2016,Phishing,13.91
+2892,2016,SQL Injection,52.59
+2901,2016,Ransomware,43.65
+2906,2016,Man-in-the-Middle,57.26
+2913,2016,DDoS,93.39
+2925,2016,DDoS,26.97
+2934,2016,SQL Injection,63.93
+2939,2016,Ransomware,5.51
+2957,2016,Malware,37.07
+2965,2016,SQL Injection,98.03
+2974,2016,Man-in-the-Middle,19.59

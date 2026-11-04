@@ -1,0 +1,12 @@
+CYBERSECURITY INCIDENT REPORT (2016)
+Student: Jerusalem (TUPM-26-1131)
+Total Incidents: 285
+Total Financial Loss: $13,947.26 Million
+Average Financial Loss: $48.94 Million
+
+Top 5 Costliest Incidents:
+- ID: 2134 | Type: Phishing | Loss: $99.98M
+- ID: 2005 | Type: Ransomware | Loss: $99.88M
+- ID: 209 | Type: Malware | Loss: $99.29M
+- ID: 1001 | Type: Ransomware | Loss: $99.19M
+- ID: 2724 | Type: Phishing | Loss: $98.72M

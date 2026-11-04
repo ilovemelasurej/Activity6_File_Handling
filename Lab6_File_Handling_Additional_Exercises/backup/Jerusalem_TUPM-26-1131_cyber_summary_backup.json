@@ -1,0 +1,47 @@
+{
+    "target_year": 2016,
+    "total_records_in_dataset": 3000,
+    "incidents_in_target_year": 285,
+    "count_per_attack_type": {
+        "DDoS": 53,
+        "Man-in-the-Middle": 47,
+        "SQL Injection": 47,
+        "Phishing": 55,
+        "Malware": 41,
+        "Ransomware": 42
+    },
+    "total_financial_loss_million_usd": 13947.26,
+    "average_financial_loss_million_usd": 48.94,
+    "five_costliest_incidents": [
+        {
+            "Incident ID": "2134",
+            "Date": "2016",
+            "Attack Type": "Phishing",
+            "Financial Loss (in Million $)": 99.98
+        },
+        {
+            "Incident ID": "2005",
+            "Date": "2016",
+            "Attack Type": "Ransomware",
+            "Financial Loss (in Million $)": 99.88
+        },
+        {
+            "Incident ID": "209",
+            "Date": "2016",
+            "Attack Type": "Malware",
+            "Financial Loss (in Million $)": 99.29
+        },
+        {
+            "Incident ID": "1001",
+            "Date": "2016",
+            "Attack Type": "Ransomware",
+            "Financial Loss (in Million $)": 99.19
+        },
+        {
+            "Incident ID": "2724",
+            "Date": "2016",
+            "Attack Type": "Phishing",
+            "Financial Loss (in Million $)": 98.72
+        }
+    ]
+}
